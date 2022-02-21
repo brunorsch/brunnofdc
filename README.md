@@ -1,4 +1,4 @@
-### Hi there 👋😃
+### Hello! 👋😃
 
 - 👨‍💻 Currently working with Java (and Kotlin when I have the chance), mainly at the back-end, using Spring Framework.
 - 🧐 Interested in Kotlin (❤️), Java, TypeScript and GoLang!
