@@ -1,7 +1,5 @@
-### Hello! 👋😃
-
-- 👨‍💻 Currently working with Java (and Kotlin when I have the chance), mainly at the back-end, using Spring Framework.
-- 🧐 Interested in Kotlin (❤️), Java, TypeScript, Rust and GoLang!
-- ⛏️ Minecraft passionate and addicted. Also, an enthusiast of Bukkit, Spigot and PaperMC communities.  
-
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BrunnoFdc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Hello! I'm Bruno! 👋😃
+- 👨‍💻 I'm a professional "Back-end" Software Developer. I also like front-end development (web and mobile), tough it's not my main focus.
+- 💼 Currently working with Java using Spring Framework. Kotlin when I have a chance too.
+- 🧐 Interested in Java, Kotlin, TypeScript and Go!
+- ⛏️ Minecraft passionate. Also, I'm an enthusiast of Bukkit, Spigot and PaperMC communities, as well as other games software communities, such as GTA V multiplayer mods (FiveM, alt:V, etc). 
