@@ -1,5 +1,19 @@
-### Hello! I'm Bruno! 👋😃
-- 👨‍💻 I'm a professional "Back-end" Software Developer. I also like front-end development (web and mobile), tough it's not my main focus.
-- 💼 Currently working with Java using Spring Framework. Kotlin when I have a chance too.
-- 🧐 Interested in Java, Kotlin, TypeScript and Go!
-- ⛏️ Minecraft passionate. Also, I'm an enthusiast of Bukkit, Spigot and PaperMC communities, as well as other games software communities, such as GTA V multiplayer mods (FiveM, alt:V, etc). 
+### Bruno R. Schmidt 🧠💻
+
+Sou desenvolvedor desde 2020 e brinco com código desde lá por 2014, na epoca com Minecraft, onde tudo começou. Não por acaso, a linguagem que trabalho é Java! Curioso por natureza, gosto de entender o *porquê* das coisas, não só o *como*.  
+Por aqui tu vai encontrar meus projetos pessoais, geralmente umas brincadeirinhas, pouca coisa a sério. Mexo muito com Kotlin, TS/JS e Go no tempo livre.
+
+---
+
+#### 🧰 Ferramentas que me acompanham
+- `Java` (+ Spring :heart: e um pouquinho de Micronaut)
+- `Kotlin` (Pra mim, é o Java se esse fosse perfeito)
+- `JS/TS`
+- `Go`
+- `Dart/Flutter`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorsch&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+> “Good software, like wine, takes time.”
